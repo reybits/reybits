@@ -1,16 +1,12 @@
-<h2 align="left">👋 Hi, my name is Andrey</h2>
+# Hi there! 👋
 
-###
+My name is **Andrey**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
-</div>
+I'm mobile and desktop game developer, creator of [Simple Viewer GL](https://github.com/andreyugolnik/simple-viewer-gl) - a lightweight image viewer based on OpenGL.
+
+- 🚀 Main programming language: **C++**.
+- ✨ Favorite editor/IDE: **Neovim**.
+- 🌐 Personal website: [ugolnik.info](https://www.ugolnik.info)
 
 ###
 
